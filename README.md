@@ -2,6 +2,8 @@
 
 ![Screenshot](screenshot.png)
 
+[Live Demo](https://peerlessmusic-theta.vercel.app/)
+
 A production-ready music streaming web application inspired by Apple Music's design, featuring smooth animations, high-quality audio streaming, and smart caching via Cloudinary.
 
 ## Features
