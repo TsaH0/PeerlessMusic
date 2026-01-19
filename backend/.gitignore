@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+.venv
+peerless_music.db
+*.log
+.pytest_cache/
+.coverage
+htmlcov/
+.DS_Store
+single_script.py
